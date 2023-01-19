@@ -13,3 +13,16 @@ The Respiratory Sound Database was created by two research teams in Portugal and
 
 link :- https://www.kaggle.com/datasets/vbookshelf/respiratory-sound-database
 ## Results
+
+                  precision    recall  f1-score   support
+
+          COPD       0.98      0.99      0.98       165
+       Healthy       0.50      0.57      0.53         7
+          URTI       0.33      0.25      0.29         4
+Bronchiectasis       1.00      0.50      0.67         4
+     Pneumoina       0.60      1.00      0.75         3
+ Bronchiolitis       0.00      0.00      0.00         1
+
+      accuracy                           0.94       184
+     macro avg       0.57      0.55      0.54       184
+  weighted avg       0.94      0.94      0.94       184
